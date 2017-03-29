@@ -11,3 +11,8 @@ if(!empty($_POST['input']) && $_POST['input'] == $_SESSION['secret']){
 		}else{
 			echo 'wrong';
 		}
+
+#Note : 
+You can edit this class and use it as you want , 
+This class will generate an image with numbers and 
+random lines over these numbers to insure human usage <3
