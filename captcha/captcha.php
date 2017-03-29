@@ -13,9 +13,9 @@ class Captcha
 {
 	public $img;
 	public $txtCol;
-	public $fontSize = 40;
-	public $imageWidth = 80;
-	public $imageHeight = 20;
+	public $fontSize = 40;  // here you can change your captcha font size
+	public $imageWidth = 80; // here you can change your captcha image width
+	public $imageHeight = 20; // here you can change your captcha image height
 	public $string;
 
 	public function createImg(){
