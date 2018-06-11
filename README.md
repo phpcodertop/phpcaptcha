@@ -1,3 +1,5 @@
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/AhmedHalima)
+
 # php captcha class for security check for human usage 
  Usage : 
  Your Captcha image src should point to captcha.php
